@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://i.pinimg.com/736x/a0/57/af/a057afe4ded4705c350f58f5be2521af.jpg)
+<img src="https://i.pinimg.com/736x/a0/57/af/a057afe4ded4705c350f58f5be2521af.jpg" height="250">
+
 <!-- Puedes cambiar este link por tu propio banner -->
 
 # Hi! I'm Kevin Venegas Bermúdez 👋
