@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="700" />
+<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="500" />
 
 <!-- Puedes cambiar este link por tu propio banner -->
 
