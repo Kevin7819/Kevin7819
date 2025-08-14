@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg)<!-- Puedes cambiar este link por tu propio banner -->
+<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="900" /><!-- Puedes cambiar este link por tu propio banner -->
 
 # Hi! I'm Kevin Venegas Bermúdez 👋
 **💻 Systems Engineering Student | Full Stack Developer | Universidad Nacional, Costa Rica**
