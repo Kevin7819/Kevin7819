@@ -1,22 +1,23 @@
-
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="500" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="500" />
+</p>
 
-# Hi! I'm Kevin Venegas Bermúdez
-**Systems Engineering Student | Full Stack Developer | Universidad Nacional, Costa Rica**
-
----
-
-## About Me
-- 4th-year student in **Information Systems Engineering** at Universidad Nacional
-- Passionate about **Full Stack Development** and creating efficient, scalable solutions
-- Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**
-- Interested in **mobile applications**, **web systems**, and **AI-powered solutions**
-- Enjoy playing video games, watching movies, and exploring new technologies
+# 👋 Hi! I'm Kevin Venegas Bermúdez
+**💻 Systems Engineering Student | Full Stack Developer | Universidad Nacional, Costa Rica**
 
 ---
 
-## Tech Stack
+## 🌟 About Me
+- 🎓 4th-year student in **Information Systems Engineering** at Universidad Nacional  
+- 💡 Passionate about **Full Stack Development** and creating efficient, scalable solutions  
+- 📱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**  
+- 🌐 Interested in **mobile applications**, **web systems**, and **AI-powered solutions**  
+- 🎮 Enjoy playing video games, watching movies, and exploring new technologies  
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,24 +42,26 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-**Force Gym** - Gym management system with interactive dashboards, user management, and notification systems. Features include member tracking, payment processing, and workout planning.
+**Force Gym** - Gym management system with interactive dashboards, user management, and notification systems. 🏋️‍♂️  
 
-**Mobile Applications with Jetpack Compose** - Developed Android applications using modern architecture patterns including MVVM, Room database, Retrofit for API communication, and Firebase integration.
+**Mobile Applications with Jetpack Compose** - Android apps using MVVM, Room, Retrofit, and Firebase. 📱  
 
-**Augmented Reality Game** - Interactive AR experience built with AR.js and A-Frame, featuring 3D character interactions and immersive environments.
-
----
-
-## GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin7819&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin7819&layout=compact&theme=default)
+**Augmented Reality Game** - Interactive AR experience with 3D character interactions. 🕹️  
 
 ---
 
-## Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin7819&show_icons=true&theme=dark" alt="Kevin's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin7819&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Venegas-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-bermúdez-22b314239)
 [![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-181717?style=for-the-badge&logo=github)](https://github.com/Kevin7819)
@@ -66,4 +69,4 @@
 
 ---
 
-"Always learning, always building."
+> "Always learning, always building." ✨
