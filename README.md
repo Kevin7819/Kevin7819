@@ -10,6 +10,7 @@
 - 🎓 4th-year student in **Information Systems Engineering** at Universidad Nacional.
 - 💻 Passionate about **Full Stack Development** and creating efficient, scalable solutions.
 - 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**.
+- 🤖 Experienced in **n8n** for creating automation agents, e.g., scheduling appointments for a dental clinic.
 - 📱 Experienced in **React Native** for mobile app development.
 - 🛠 Experienced with **MySQL Workbench**, deploying **backend and frontend** applications.
 - 🚀 Have used **Railway** for deployments; eager to explore other platforms.
@@ -47,6 +48,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF3B30?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
