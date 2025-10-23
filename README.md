@@ -74,21 +74,10 @@
 ---
 
 ## 🤝 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/kevin-venegas-bermúdez-22b314239/" target="_blank">
-    <img alt="LinkedIn" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:kvenegasbermudez@gmail.com" target="_blank">
-    <img alt="Gmail" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="https://www.instagram.com/kevinvebe/" target="_blank">
-    <img alt="Instagram" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a>
-</div>
-
----
-
-⭐ _"Always learning, always building."_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Berm%C3%BAdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239) 
+[![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-@kevinvebe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinvebe/)
 
 ---
 
