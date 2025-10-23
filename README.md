@@ -74,19 +74,21 @@
 ---
 
 ## 🤝 Connect with Me
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kevin-venegas-bermúdez-22b314239/" target="_blank">
-    <img align="center" alt="LinkedIn" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img alt="LinkedIn" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
-  
   <a href="mailto:kvenegasbermudez@gmail.com" target="_blank">
-    <img align="center" alt="Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img alt="Gmail" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-  
   <a href="https://www.instagram.com/kevinvebe/" target="_blank">
-    <img align="center" alt="Instagram" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img alt="Instagram" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
 </div>
+
+---
+
+⭐ _"Always learning, always building."_
 
 ---
 
