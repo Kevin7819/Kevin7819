@@ -55,6 +55,7 @@
 - **Mobile Apps with Jetpack Compose** 📱 — MVVM architecture, Room DB, Retrofit, and Firebase integration.
 - **Augmented Reality Game** 🕹️ — Built with AR.js and A-Frame, featuring interactive 3D characters.
 - **AI Travel Map App** 🌍 — Project using **AI + Mapbox** to identify risk zones, recommend safe/historical places, pensado para **integración con aerolíneas**.
+- **Yetify** 📝 — Mobile app for children to **manage tasks interactively**, receive notifications, and improve productivity.
 
 ---
 
