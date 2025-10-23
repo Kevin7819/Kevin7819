@@ -48,7 +48,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server Management](https://img.shields.io/badge/SQL_Server_Management-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF3B30?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
