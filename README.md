@@ -6,21 +6,23 @@
 # Hi! I'm Kevin Venegas Bermúdez
 <p align="center">
   <img src="https://img.shields.io/badge/Systems_Engineering-Universidad_Nacional-4CAF50?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-💻-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-1E90FF?style=for-the-badge" />
 </p>
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/1E90FF/info.png" width="24"/> About Me
+## About Me
 - 4th-year student in **Information Systems Engineering** at Universidad Nacional  
 - Passionate about **Full Stack Development** and creating scalable solutions  
 - Learning **Jetpack Compose**, **ASP.NET Core**, and **automation with n8n**  
+- Experienced with **MySQL Workbench**, deploying **backend and frontend** applications  
+- Have used **Railway** for deployments; eager to explore other platforms  
 - Interested in **mobile apps**, **web systems**, and **AI-powered solutions**  
 - Hobbies: playing video games, movies, and exploring new technologies  
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/1E90FF/settings.png" width="24"/> Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,20 +45,21 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/1E90FF/project.png" width="24"/> Featured Projects
+## Featured Projects
 
-**Force Gym** - Gym management system with dashboards, user management, and notifications  
-<img src="https://img.icons8.com/ios-filled/50/1E90FF/dumbbell.png" width="24"/>
+**Force Gym** - Gym management system with interactive dashboards, user management, and notification systems. Features include member tracking, payment processing, and workout planning.  
+![Force Gym](https://img.icons8.com/ios-filled/50/1E90FF/dumbbell.png)
 
-**Mobile Apps (Jetpack Compose)** - Android apps with MVVM, Room, Retrofit, Firebase  
-<img src="https://img.icons8.com/ios-filled/50/1E90FF/android-os.png" width="24"/>
+**Mobile Apps (Jetpack Compose)** - Android apps using MVVM, Room, Retrofit, and Firebase integration.  
+![Mobile App](https://img.icons8.com/ios-filled/50/1E90FF/android-os.png)
 
-**Augmented Reality Game** - Interactive AR experience with 3D character interactions  
-<img src="https://img.icons8.com/ios-filled/50/1E90FF/augmented-reality.png" width="24"/>
+**Augmented Reality Game** - Interactive AR experience with 3D character interactions built with AR.js and A-Frame.  
+![AR Game](https://img.icons8.com/ios-filled/50/1E90FF/augmented-reality.png)
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/1E90FF/github.png" width="24"/> GitHub Stats
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevin7819&show_icons=true&theme=blue" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin7819&layout=compact&theme=blue" width="49%" />
@@ -64,7 +67,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/1E90FF/contacts.png" width="24"/> Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Venegas-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-bermúdez-22b314239)
 [![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-181717?style=for-the-badge&logo=github)](https://github.com/Kevin7819)
