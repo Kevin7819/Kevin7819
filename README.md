@@ -56,12 +56,12 @@
 ## 📌 Featured Projects
 
 | Project | Description |
-|---------|------------|
-| **[Force Gym](https://github.com/Kevin7819/)** 🏋️ | Gym management system with interactive dashboards, user management, notifications, payment processing, and workout planning |
-| **Mobile Apps with Jetpack Compose** 📱 | MVVM architecture, Room DB, Retrofit, Firebase integration |
-| **Augmented Reality Game** 🕹️ | Built with AR.js + A-Frame, featuring interactive 3D characters |
-| **AI Travel Map App** 🌍 | Uses AI + Mapbox to identify risk zones and recommend safe/historical places (for airlines integration) |
-| **Yetify** 📝 | Mobile app for children to manage tasks interactively and receive notifications |
+|---------|-------------|
+| **[Force Gym](https://forcegym.netlify.app/)** 🏋️ | **Gym management platform** with a public **landing page** (available at the link) that showcases the project overview. The **administrative system**—which includes **user management, notifications, financial tracking (income, expenses, and balance), personalized workout routines, and membership expiration alerts**—is **private** and not publicly accessible. Built with modern technologies for scalability and maintainability. |
+| **Mobile Apps with Jetpack Compose** 📱 | Android applications built with MVVM architecture, Room DB, Retrofit, and Firebase integration |
+| **Augmented Reality Game** 🕹️ | Developed with AR.js + A-Frame, featuring interactive 3D characters and object collection in an AR environment |
+| **AI Travel Map App** 🌍 | Uses AI + Mapbox to identify risk zones and recommend safe/historical places for travelers, designed for potential integration with airlines |
+| **Yetify** 📝 | Mobile app for children to manage daily tasks interactively, track progress, and receive motivational notifications |
 
 ---
 
@@ -74,9 +74,9 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239) 
-[![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239)  
+[![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-@kevinvebe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinvebe/)
 
 ---
