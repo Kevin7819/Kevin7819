@@ -18,20 +18,20 @@
 
 ## 💫 About Me
 - 🎓 4th-year student in **Information Systems Engineering**  
-- 💻 Passionate about **Full Stack Development** and creating scalable solutions  
+- 💻 Passionate about **Full Stack Development** and building scalable, impactful software  
 - 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**  
-- 🤖 Experienced in **n8n** for creating automation agents (e.g., scheduling dental clinic appointments)  
-- 📱 Experienced in **React Native** for mobile app development  
-- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, and deployment of **backend & frontend** applications  
-- 🚀 Used **Railway**; eager to explore more deployment platforms  
-- 🎨 Currently developing **AI Travel Map App** using AI + Mapbox to:  
-  - Paint **risk zones** (areas with low health safety)  
+- 🤖 Experienced with **n8n** for automation agents (e.g., scheduling dental clinic appointments)  
+- 📱 Skilled in **React Native** for cross-platform mobile app development  
+- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, and **Supabase**  
+- 🚀 Hands-on experience deploying **frontend and backend** apps using **Railway** and **Netlify**, eager to explore more platforms  
+- 🎨 Currently developing an **AI Travel Map App** using AI + Mapbox to:  
+  - Paint **risk zones** (low safety/health areas)  
   - Recommend **safe and historical places** for travelers  
-  - Designed for potential **integration with airlines**  
+  - Designed for **integration with airlines**  
 - 📝 Developing **Yetify**, a mobile app for children to **manage tasks interactively** and receive notifications  
 - 🌐 Interested in **mobile apps**, **web systems**, and **AI-powered solutions**  
-- 🎮 Hobbies: video games, movies, exploring new tech  
-- 🗣 English: intermediate, actively improving with strong motivation to master it fully  
+- 🎮 Hobbies: video games, movies, and exploring emerging technologies  
+- 🗣 **English:** intermediate — actively improving and highly motivated to master it fully  
 
 ---
 
@@ -41,7 +41,7 @@
 |------------------------|-----------|---------------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) |  | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) |
 | ![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |  | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) |
