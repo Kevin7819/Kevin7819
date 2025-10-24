@@ -18,20 +18,21 @@
 
 ## 💫 About Me
 - 🎓 4th-year student in **Information Systems Engineering**  
-- 💻 Passionate about **Full Stack Development** and building scalable, impactful software  
+- 💻 Passionate about **Full Stack Development** and creating scalable, efficient solutions  
 - 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**  
-- 🤖 Experienced with **n8n** for automation agents (e.g., scheduling dental clinic appointments)  
-- 📱 Skilled in **React Native** for cross-platform mobile app development  
-- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, and **Supabase**  
-- 🚀 Hands-on experience deploying **frontend and backend** apps using **Railway** and **Netlify**, eager to explore more platforms  
-- 🎨 Currently developing an **AI Travel Map App** using AI + Mapbox to:  
-  - Paint **risk zones** (low safety/health areas)  
+- 🤖 Experienced in **n8n** for creating automation agents (e.g., scheduling dental clinic appointments)  
+- 📱 Experienced in **React Native** for mobile app development  
+- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, **Supabase**, and **XAMPP** for backend and frontend deployment  
+- 🚀 Used **Railway**; eager to explore more deployment platforms  
+- 🎨 Currently developing **AI Travel Map App** using AI + Mapbox to:  
+  - Paint **risk zones** (areas with low health safety)  
   - Recommend **safe and historical places** for travelers  
-  - Designed for **integration with airlines**  
+  - Designed for potential **integration with airlines**  
 - 📝 Developing **Yetify**, a mobile app for children to **manage tasks interactively** and receive notifications  
 - 🌐 Interested in **mobile apps**, **web systems**, and **AI-powered solutions**  
-- 🎮 Hobbies: video games, movies, and exploring emerging technologies  
-- 🗣 **English:** intermediate — actively improving and highly motivated to master it fully  
+- 🧠 Previously worked with **C++**, gaining strong fundamentals in programming logic and object-oriented design  
+- 🎮 Hobbies: video games, movies, exploring new tech  
+- 🗣 English: intermediate, actively improving with strong motivation to master it fully  
 
 ---
 
@@ -47,7 +48,8 @@
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) |
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  | ![SQL Management](https://img.shields.io/badge/SQL_Management-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  | ![n8n](https://img.shields.io/badge/n8n-FF3B30?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |  | ![n8n](https://img.shields.io/badge/n8n-FF3B30?style=for-the-badge&logo=n8n&logoColor=white) |
 
 ---
 
@@ -79,4 +81,4 @@
 
 ---
 
-⭐ _"Always learning, always building."_  
+⭐ _"Always learning, always building."_
