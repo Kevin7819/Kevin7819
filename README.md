@@ -10,58 +10,67 @@
 </a>
 
 <h2 align="left">
-  💻 Systems Engineering Student <br/>
+  💻 Information Systems Engineering Graduate <br/>
   Universidad Nacional de Costa Rica
 </h2>
 
 ---
 
 ## 💫 About Me
-- 🎓 4th-year student in **Information Systems Engineering**  
-- 💻 Passionate about **Full Stack Development** and creating scalable, efficient solutions  
-- 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**  
-- 🤖 Experienced in **n8n** for creating automation agents (e.g., scheduling dental clinic appointments)  
-- 📱 Experienced in **React Native** for mobile app development  
-- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, **Supabase**, and **XAMPP** for backend and frontend deployment  
-- 🚀 Used **Railway**; eager to explore more deployment platforms  
-- 🎨 Currently developing **AI Travel Map App** using AI + Mapbox to:  
-  - Paint **risk zones** (areas with low health safety)  
-  - Recommend **safe and historical places** for travelers  
-  - Designed for potential **integration with airlines**  
-- 📝 Developing **Yetify**, a mobile app for children to **manage tasks interactively** and receive notifications  
-- 🌐 Interested in **mobile apps**, **web systems**, and **AI-powered solutions**  
-- 🧠 Previously worked with **C++**, gaining strong fundamentals in programming logic and object-oriented design  
-- 🎮 Hobbies: video games, movies, exploring new tech  
-- 🗣 English: intermediate, actively improving with strong motivation to master it fully  
+- 🎓 **Bachelor’s Degree in Information Systems Engineering** (degree completed – diploma pending)  
+- 📊 GPA: **8.66**  
+- 💼 Actively seeking **full-time positions or internships** to begin my professional career  
+- 💻 Hands-on experience in **Full Stack Development** (React, Spring Boot, .NET, SQL Server)  
+- ⚙️ Highly adaptable, fast learner, strong communication skills, and teamwork oriented  
+- 🤖 Experience developing **enterprise virtual assistants** and automation workflows using **n8n**  
+- 📱 Mobile development using **React Native** and **Kotlin + Jetpack Compose**  
+- 🛠 Skilled with **MySQL Workbench**, **SQL Management Studio**, **Supabase**, and **XAMPP** for backend/frontend deployment  
+- 🧭 Interested in **web systems**, **mobile apps**, AI automation, and scalable software architecture  
+- 🎮 Hobbies: video games, tech exploration, movies  
+- 🗣 English: intermediate, actively improving  
+
+---
+
+## 🧑‍💼 Professional Experience
+
+### **💼 Professional Internship – LetParley**
+- Developed enterprise virtual assistants across multiple business sectors using **n8n**, including conversational flows, conditional logic, scheduling, and validations.  
+- Designed and implemented **15+ automated workflows** with reusable booking and calendar components.  
+- Performed **functional testing** and created structured documentation using **Notion**.  
+- Developed **LPTrips landing page** (React + Vite + Tailwind) with IATA autocomplete, SEO improvements, ARIA accessibility, and design system enhancements.  
+- Contributed UI improvements, legal updates, and structure adjustments to the **MenuPlatz** landing page.  
+- Created technical documentation, Miro prototypes, and supported integrations, analytics, and access control.  
+- Worked under **Scrum methodology** using Azure DevOps, Notion, and GitHub.  
+
+### **🏋️ Force Gym Web Application**
+- Developed a modern **public landing page** to enhance brand visibility.  
+- Built an **administrative dashboard** with charts, automated notifications, and PDF/Excel export.  
+- Implemented **Scrum + Gitflow**, **Jest + React Testing Library**, and CI/CD with **GitHub Actions**.  
 
 ---
 
 ## 🛠 Tech Stack
 
 | Languages & Frameworks | Databases | Tools & Methodologies |
-|------------------------|-----------|---------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) |
-| ![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |  | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |  | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  | ![SQL Management](https://img.shields.io/badge/SQL_Management-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |  | ![n8n](https://img.shields.io/badge/n8n-FF3B30?style=for-the-badge&logo=n8n&logoColor=white) |
+|------------------------|-----------|------------------------|
+| Java (Spring Boot), .NET, Node.js, REST APIs | SQL Server, MySQL, PostgreSQL | Git, GitHub, GitHub Actions |
+| React, React Native, JavaScript, TypeScript | Supabase | Scrum, Jira, Trello, Azure DevOps |
+| Kotlin, Jetpack Compose, Room, Retrofit | — | Postman, Docker, Notion |
+| PHP, HTML, CSS, Tailwind, Bootstrap | — | Firebase, Mapbox, XAMPP, Figma |
+| C++ | — | n8n Automation |
 
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| **[Force Gym](https://forcegym.netlify.app/)** 🏋️ | **Gym management platform** with a public **landing page** (available at the link) that showcases the project overview. The **administrative system**—which includes **user management, notifications, financial tracking (income, expenses, and balance), personalized workout routines, and membership expiration alerts**—is **private** and not publicly accessible. Built with modern technologies for scalability and maintainability. |
-| **Mobile Apps with Jetpack Compose** 📱 | Android applications built with MVVM architecture, Room DB, Retrofit, and Firebase integration |
-| **Augmented Reality Game** 🕹️ | Developed with AR.js + A-Frame, featuring interactive 3D characters and object collection in an AR environment |
-| **AI Travel Map App** 🌍 | Uses AI + Mapbox to identify risk zones and recommend safe/historical places for travelers, designed for potential integration with airlines |
-| **Yetify** 📝 | Mobile app for children to manage daily tasks interactively, track progress, and receive motivational notifications |
+|--------|-------------|
+| **[Force Gym](https://forcegym.netlify.app/)** 🏋️ | Public landing page + private admin system with user management, notifications, financial tracking, workout routines, and membership expiration alerts. CI/CD + testing included. |
+| **Enterprise Automation Agents (n8n)** 🤖 | Virtual assistants and automation flows for dental clinics, travel, reservations, restaurant menus, and more. |
+| **Mobile Apps with Jetpack Compose** 📱 | Android apps using MVVM, Room DB, Retrofit, Firebase, and DataStore. |
+| **Augmented Reality Game** 🕹️ | AR.js + A-Frame game with interactive 3D characters and item collection. |
+| **AI Travel Map App** 🌍 | Identifies health-risk zones and recommends safe/historical locations using AI + Mapbox. |
+| **Yetify** 📝 | Mobile app for children to manage tasks interactively with notifications. |
 
 ---
 
@@ -74,9 +83,9 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-bermúdez-22b314239)  
 [![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinabelvenegasbermudez@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-@kevinvebe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinvebe/)
 
 ---
