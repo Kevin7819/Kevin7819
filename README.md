@@ -1,38 +1,33 @@
-<!-- Banner --> 
-<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="500" /> 
+<!-- Banner -->
+<img src="https://i.pinimg.com/1200x/ab/98/31/ab9831cf7761a779e7b79d8f908b11d0.jpg" width="500" />
 
-<h3 align="center">
-  Hi! I'm Kevin Venegas Bermúdez 👋
-</h3>
+<h3 align="center">Hi! I'm Kevin Venegas Bermúdez 👋</h3>
 
 <a href="https://www.una.ac.cr/" target="_blank">
   <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/LogoUNA.svg/800px-LogoUNA.svg.png" width="80" alt="Logo-UNA"/>
 </a>
 
-<h2 align="left">
-  💻 Information Systems Engineering Graduate <br/>
-  Universidad Nacional de Costa Rica
-</h2>
+<h2 align="left">💻 Systems Engineering Student <br/> Universidad Nacional de Costa Rica</h2>
 
 ---
 
 ## 💫 About Me
-- 🎓 **Bachelor’s Degree in Information Systems Engineering** (graduated – diploma pending)
-- 💻 Passionate about **Full Stack Development** and building scalable, efficient software
-- 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**
-- 🤖 Experienced using **n8n** to build automation agents (e.g., booking systems for dental clinics)
-- 📱 Experience with **React Native** for mobile development
-- 🛠 Skilled with **MySQL Workbench**, **SQL Management Studio**, **Supabase**, and **XAMPP** for backend/frontend deployment
-- 🚀 Worked with **Railway**; eager to explore more deployment platforms
-- 🎨 Developing an **AI Travel Map App** using AI + Mapbox to:
-  - Visualize **risk zones** (health/safety risk levels)
-  - Recommend **safe and historical locations** for travelers
-  - Designed for potential **airline integration**
-- 📝 Building **Yetify**, a mobile app for children to manage tasks interactively and receive notifications
-- 🌐 Interested in **mobile development**, **web systems**, and **AI-driven solutions**
-- 🧠 Strong fundamentals in programming logic and OOP from previous experience with **C++**
-- 🎮 Hobbies: gaming, movies, and exploring new technologies
-- 🗣 English: intermediate and improving consistently
+- 🎓 4th-year student in **Information Systems Engineering**  
+- 💻 Passionate about **Full Stack Development** and creating scalable, efficient solutions  
+- 🌱 Currently learning **Jetpack Compose**, **ASP.NET Core**, and **automation workflows with n8n**  
+- 🤖 Experienced in **n8n** for creating automation agents (e.g., scheduling dental clinic appointments)  
+- 📱 Experienced in **React Native** for mobile app development  
+- 🛠 Experienced with **MySQL Workbench**, **SQL Management Studio**, **Supabase**, and **XAMPP** for backend and frontend deployment  
+- 🚀 Used **Railway**; eager to explore more deployment platforms  
+- 🎨 Currently developing **AI Travel Map App** using AI + Mapbox to:  
+  - Paint **risk zones** (areas with low health safety)  
+  - Recommend **safe and historical places** for travelers  
+  - Designed for potential **integration with airlines**  
+- 📝 Developing **Yetify**, a mobile app for children to **manage tasks interactively** and receive notifications  
+- 🌐 Interested in **mobile apps**, **web systems**, and **AI-powered solutions**  
+- 🧠 Previously worked with **C++**, gaining strong fundamentals in programming logic and object-oriented design  
+- 🎮 Hobbies: video games, movies, exploring new tech  
+- 🗣 English: intermediate, actively improving  
 
 ---
 
@@ -57,16 +52,15 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Force Gym](https://forcegym.netlify.app/)** 🏋️ | **Gym management platform** with a public landing page. The **admin system** includes user management, automated notifications, financial tracking (income/expenses/balance), personalized workout routines, and membership expiration alerts. Private access only. |
-| **Mobile Apps with Jetpack Compose** 📱 | Android apps using MVVM, Room, Retrofit, Firebase, and modern Compose UI patterns. |
-| **Augmented Reality Game** 🕹️ | Built with AR.js + A-Frame, featuring interactive 3D characters and object collection. |
-| **AI Travel Map App** 🌍 | AI + Mapbox to identify risk zones and recommend safe/historical places. Built with scalability and airline integration in mind. |
-| **Yetify** 📝 | Task-management mobile app for children, including progress tracking and engaging notifications. |
+| **[Force Gym](https://forcegym.netlify.app/)** 🏋️ | Gym management platform with a public **landing page**. Private **admin system** includes **user management, notifications, financial tracking, personalized routines, and membership alerts**. Built with modern technologies for scalability. |
+| **Mobile Apps with Jetpack Compose** 📱 | Android apps built with MVVM architecture, Room DB, Retrofit, and Firebase integration |
+| **Augmented Reality Game** 🕹️ | Developed with AR.js + A-Frame, featuring interactive 3D characters and object collection |
+| **AI Travel Map App** 🌍 | Uses AI + Mapbox to identify risk zones and recommend safe/historical places, designed for potential integration with airlines |
+| **Yetify** 📝 | Mobile app for children to manage tasks interactively, track progress, and receive motivational notifications |
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevin7819&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin7819&layout=compact&theme=tokyonight" width="49%" />
@@ -75,11 +69,10 @@
 ---
 
 ## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-@kevinvebe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinvebe/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Venegas%20Bermúdez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-venegas-berm%C3%BAdez-22b314239) 
+[![GitHub](https://img.shields.io/badge/GitHub-Kevin7819-black?style=for-the-badge&logo=github)](https://github.com/Kevin7819) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvenegasbermudez@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-@kevinvebe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinvebe/)
 
 ---
 
