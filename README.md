@@ -90,24 +90,24 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kevin7819&theme=tokyonight" width="60%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kevin7819&theme=tokyonight" width="50%" />
 </p>
 
 <p align="center">
   <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin7819&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin7819&theme=tokyonight" width="50%" />
 </p>
 
 <p align="center">
   <!-- Repositorios más activos -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin7819&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin7819&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin7819&theme=tokyonight" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin7819&theme=tokyonight" width="30%" />
 </p>
 
 <p align="center">
   <!-- Resumen general -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin7819&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kevin7819&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin7819&theme=tokyonight" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kevin7819&theme=tokyonight" width="30%" />
 </p>
 
 ---
